@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Khushbu Thakur</h1>
 <h3 align="center">A Girl trying to Figure-out Stuff!!!!!</h3>
 
+- 🌱 I’m currently learning **Data Science**
+
 - 📫 How to reach me **thakurkhushbu3195@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
