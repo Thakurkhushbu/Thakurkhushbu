@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-thakur-a6a5831b2?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_recent_activity_details_all%3bt7sdn3purvyujaclapbohq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushbu-thakur-a6a5831b2?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_recent_activity_details_all%3bt7sdn3purvyujaclapbohq%3d%3d" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/khushbu-thakur3195?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b6gpudjt%2fs2og2nlk9euqha%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/khushbu-thakur3195?lipi=urn%3ali%3apage%3ad_flagship3_feed%3b6gpudjt%2fs2og2nlk9euqha%3d%3d" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
